@@ -1,0 +1,16 @@
+package org.forworks.EasyEditor.client;
+
+import com.google.gwt.user.client.ui.TextArea;
+
+// Extend any GWT Widget
+public class EasyEditorWidget extends TextArea {
+
+	public EasyEditorWidget() {
+
+		// CSS class-name should not be v- prefixed
+		setStyleName("EasyEditor");
+
+		// State is set to widget in EasyEditorConnector		
+	}
+
+}

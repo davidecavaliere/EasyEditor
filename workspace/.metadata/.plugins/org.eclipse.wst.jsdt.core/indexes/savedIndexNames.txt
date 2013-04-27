@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+/home/davide/Liferay_Projects/EasyEditor/workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3277052450.index
+574658293.index
+2969713258.index
+1552664361.index
